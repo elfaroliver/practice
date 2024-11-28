@@ -50,7 +50,7 @@
     "Application.Triangle.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "editing.templates"
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
   <component name="RunManager" selected="Application.Misc.BilamengunSwitch">
