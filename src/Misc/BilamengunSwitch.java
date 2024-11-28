@@ -7,9 +7,9 @@ import java.util.Scanner;
 public class BilamengunSwitch {
   public static void main(String[] args) {
     try {
-    Scanner input = new Scanner(System.in, StandardCharsets.UTF_8);
-    System.out.println("Veldu mengunarflokk með tölu");
-    int mengun = input.nextInt();
+      Scanner input = new Scanner(System.in, StandardCharsets.UTF_8);
+      System.out.println("Veldu mengunarflokk með tölu");
+      int mengun = input.nextInt();
       switch (mengun) {
         case 1:
           System.out.println("Ertu hjólreiðamanneskja?");
