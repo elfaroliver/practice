@@ -39,7 +39,7 @@ public class BilamengunSwitch {
           System.out.println("Þú verður að velja tölu milli 1-9");
       }
     } catch (InputMismatchException e) {
-      System.out.println("Rangt inntak, vinsamlegast sláðu inn tölu "/* + e.getMessage()*/);
+      System.out.println("Rangt inntak, vinsamlegast sláðu inn tölu hafðu hana einnig á bilinu 1-9"/* + e.getMessage()*/);
     }
   }
 }
