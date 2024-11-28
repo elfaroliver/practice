@@ -38,14 +38,22 @@
   "keyToString": {
     "Application.Bokasafn.Book.executor": "Run",
     "Application.Bokasafn.Library.executor": "Run",
+    "Application.Bokasafn.Main.executor": "Run",
     "Application.Book.executor": "Run",
+    "Application.Misc.BilamengunSwitch.executor": "Run",
+    "Application.Misc.Book.executor": "Run",
+    "Application.Misc.Tengilidir.ContactList.executor": "Run",
+    "Application.Misc.Tengilidir.Main.executor": "Run",
+    "Application.Misc.Vikudagur.executor": "Run",
+    "Application.Misc.VikudagurSwitch.executor": "Run",
+    "Application.StudentList.Main.executor": "Run",
     "Application.Triangle.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ignore.virus.scanning.warn.message": "true",
     "settings.editor.selected.configurable": "editing.templates"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Bokasafn.Book">
+  <component name="RunManager" selected="Application.Misc.BilamengunSwitch">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -60,13 +68,53 @@
       <module name="Practice" />
       <method v="2" />
     </configuration>
+    <configuration name="Bokasafn.Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Bokasafn.Main" />
+      <module name="Practice" />
+      <method v="2" />
+    </configuration>
     <configuration name="Book" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Book" />
       <module name="Practice" />
       <method v="2" />
     </configuration>
+    <configuration name="Misc.BilamengunSwitch" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Misc.BilamengunSwitch" />
+      <module name="Practice" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Misc.Book" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Misc.Book" />
+      <module name="Practice" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Misc.Tengilidir.ContactList" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Misc.Tengilidir.ContactList" />
+      <module name="Practice" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Misc.Tengilidir.Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Misc.Tengilidir.Main" />
+      <module name="Practice" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Misc.Vikudagur" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Misc.Vikudagur" />
+      <module name="Practice" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Misc.VikudagurSwitch" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Misc.VikudagurSwitch" />
+      <module name="Practice" />
+      <method v="2" />
+    </configuration>
+    <configuration name="StudentList.Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="StudentList.Main" />
+      <module name="Practice" />
+      <method v="2" />
+    </configuration>
     <configuration name="Triangle" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Triangle" />
+      <option name="MAIN_CLASS_NAME" value="Misc.Triangle" />
       <module name="Practice" />
       <method v="2" />
     </configuration>
